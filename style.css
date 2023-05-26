@@ -1,23 +1,24 @@
 body {
-    background-color: #cceeff;
-  }
+    background: url(file:///C:/Users/march/Downloads/77c67f24-540e-4ac2-b6d6-52bd5dd614ea_90_90);
+  background-repeat: no-repeat;
+background-size: ;}
   
   .calculadora {
-    max-width: 300px;
+    max-width: 350px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 40px;
     background-color: #99ccff;
     border-radius: 
     83% 17% 81% 19% / 10% 82% 18% 90%;
   }
   
   #resultado {
-    width: 100%;
+    width: 90%;
     height: 40px;
     font-size: 24px;
     text-align: right;
     margin-bottom: 10px;
-    border-radius: 5px;
+    border-radius:30%
   }
   
   .botones {
@@ -82,12 +83,12 @@ body {
     border-radius: 33% 67% 47% 53% / 10% 48% 52% 90%;
   }
   button:nth-child(14) {
-    border-radius: 33% 67% 47% 53% / 10% 48% 52% 90%;
+    border-radius: 100% 0% 70% 30% / 100% 49% 51% 0%;
   }
   button:nth-child(15) {
-    border-radius: 33% 67% 47% 53% / 10% 48% 52% 90%;
+    border-radius:100% 0% 100% 0% / 100% 49% 51% 0%;
   }
   button:nth-child(16) {
-    border-radius: 33% 67% 47% 53% / 10% 48% 52% 90%;
+    border-radius: 100% 0% 100% 0% / 100% 0% 100% 0% ;
   }
   
