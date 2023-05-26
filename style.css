@@ -7,7 +7,8 @@ body {
     margin: 0 auto;
     padding: 20px;
     background-color: #99ccff;
-    border-radius: 10px;
+    border-radius: 
+    83% 17% 81% 19% / 10% 82% 18% 90%;
   }
   
   #resultado {
@@ -65,3 +66,28 @@ body {
   button:nth-child(8) {
     border-radius: 33% 67% 47% 53% / 10% 48% 52% 90%;
   }
+  button:nth-child(9) {
+    border-radius: 33% 67% 47% 53% / 10% 48% 52% 90%;
+  }
+  button:nth-child(10) {
+    border-radius: 33% 67% 47% 53% / 10% 48% 52% 90%;
+  }
+  button:nth-child(11) {
+    border-radius: 33% 67% 47% 53% / 10% 48% 52% 90%;
+  }
+  button:nth-child(12) {
+    border-radius: 33% 67% 47% 53% / 10% 48% 52% 90%;
+  }
+  button:nth-child(13) {
+    border-radius: 33% 67% 47% 53% / 10% 48% 52% 90%;
+  }
+  button:nth-child(14) {
+    border-radius: 33% 67% 47% 53% / 10% 48% 52% 90%;
+  }
+  button:nth-child(15) {
+    border-radius: 33% 67% 47% 53% / 10% 48% 52% 90%;
+  }
+  button:nth-child(16) {
+    border-radius: 33% 67% 47% 53% / 10% 48% 52% 90%;
+  }
+  
